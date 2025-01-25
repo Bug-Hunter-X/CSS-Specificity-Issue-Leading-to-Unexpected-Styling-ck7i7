@@ -1,0 +1,1 @@
+The CSS specificity rules are not well understood, leading to unexpected styling issues.  For example, a more specific selector might unintentionally override a more general one, even if the general one is defined later in the stylesheet.
