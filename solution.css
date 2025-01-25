@@ -1,0 +1,10 @@
+/* solution.css */
+.container {
+  background-color: lightblue;
+}
+
+.container .box {
+  background-color: lightgreen; /* More specific selector wins */
+}
+
+/*Note:  The solution is to understand the specificity rules to maintain order in the precedence of styles. More specific styles should be written with better awareness of overriding more general styles. */
